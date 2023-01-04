@@ -1,6 +1,6 @@
 name = "GAP_pkg_juliainterface_jll"
 uuid = "ba154793-3a7d-51ee-8800-e295b0cf7374"
-version = "0.800.201+2"
+version = "0.800.202+0"
 
 [deps]
 JLLWrappers = "692b3bcd-3c85-4b1f-b108-f13ce0eb3210"
@@ -13,5 +13,5 @@ Artifacts = "56f22d72-fd6d-98f1-02f0-08ddc0907c33"
 [compat]
 JLLWrappers = "1.2.0"
 julia = "1.6"
-GAP_lib_jll = "~400.1201.100"
-GAP_jll = "~400.1200.101"
+GAP_lib_jll = "~400.1201.200"
+GAP_jll = "~400.1200.200"
