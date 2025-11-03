@@ -6,7 +6,7 @@ os = "macos"
 
     [[GAP_pkg_juliainterface.download]]
     sha256 = "5e3f8048779819e2852f5fda6d6d6cae2a16b19ed8ab1be552c49eda187f7318"
-    url = "https://github.com/JuliaBinaryWrappers/GAP_pkg_juliainterface_jll.jl/releases/download/GAP_pkg_juliainterface-v0.160000.0+0/GAP_pkg_juliainterface.v0.160000.0.aarch64-apple-darwin-julia_version+1.10.0.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/GAP_pkg_juliainterface_jll.jl/releases/download/GAP_pkg_juliainterface-v0.160000.0+1/GAP_pkg_juliainterface.v0.160000.0.aarch64-apple-darwin-julia_version+1.10.0.tar.gz"
 [[GAP_pkg_juliainterface]]
 arch = "aarch64"
 git-tree-sha1 = "8e1caa035c9bab4418d3ce361ea99eb0c2cf193f"
@@ -15,7 +15,7 @@ os = "macos"
 
     [[GAP_pkg_juliainterface.download]]
     sha256 = "ff6cc8792e80e8f900ebbf6e95b6cf88fedd3e0e470373468416d9d4f35ccbeb"
-    url = "https://github.com/JuliaBinaryWrappers/GAP_pkg_juliainterface_jll.jl/releases/download/GAP_pkg_juliainterface-v0.160000.0+0/GAP_pkg_juliainterface.v0.160000.0.aarch64-apple-darwin-julia_version+1.11.1.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/GAP_pkg_juliainterface_jll.jl/releases/download/GAP_pkg_juliainterface-v0.160000.0+1/GAP_pkg_juliainterface.v0.160000.0.aarch64-apple-darwin-julia_version+1.11.1.tar.gz"
 [[GAP_pkg_juliainterface]]
 arch = "aarch64"
 git-tree-sha1 = "ee3616e1fde171bed644306185339257da9171fe"
@@ -24,7 +24,7 @@ os = "macos"
 
     [[GAP_pkg_juliainterface.download]]
     sha256 = "b861bfeff22ff688a0d5a9120be02c114826128fb457736ffb38b9cd592eff7a"
-    url = "https://github.com/JuliaBinaryWrappers/GAP_pkg_juliainterface_jll.jl/releases/download/GAP_pkg_juliainterface-v0.160000.0+0/GAP_pkg_juliainterface.v0.160000.0.aarch64-apple-darwin-julia_version+1.12.0.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/GAP_pkg_juliainterface_jll.jl/releases/download/GAP_pkg_juliainterface-v0.160000.0+1/GAP_pkg_juliainterface.v0.160000.0.aarch64-apple-darwin-julia_version+1.12.0.tar.gz"
 [[GAP_pkg_juliainterface]]
 arch = "aarch64"
 git-tree-sha1 = "ff862c1b0dcfe561185bb107bebdd813a022d102"
@@ -33,7 +33,16 @@ os = "macos"
 
     [[GAP_pkg_juliainterface.download]]
     sha256 = "31179d9a99c46c0381b297f09911cb484fc92d04f5729f2bb77b545c6a85947b"
-    url = "https://github.com/JuliaBinaryWrappers/GAP_pkg_juliainterface_jll.jl/releases/download/GAP_pkg_juliainterface-v0.160000.0+0/GAP_pkg_juliainterface.v0.160000.0.aarch64-apple-darwin-julia_version+1.13.0.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/GAP_pkg_juliainterface_jll.jl/releases/download/GAP_pkg_juliainterface-v0.160000.0+1/GAP_pkg_juliainterface.v0.160000.0.aarch64-apple-darwin-julia_version+1.13.0.tar.gz"
+[[GAP_pkg_juliainterface]]
+arch = "aarch64"
+git-tree-sha1 = "f204f3f8c8fff1cf48d4b4bc67e8a9bf753eb1f6"
+julia_version = "1.14.0"
+os = "macos"
+
+    [[GAP_pkg_juliainterface.download]]
+    sha256 = "1c8d7c446072a77393efc080aa7a09c812177a384156e08998eea2123c202725"
+    url = "https://github.com/JuliaBinaryWrappers/GAP_pkg_juliainterface_jll.jl/releases/download/GAP_pkg_juliainterface-v0.160000.0+1/GAP_pkg_juliainterface.v0.160000.0.aarch64-apple-darwin-julia_version+1.14.0.tar.gz"
 [[GAP_pkg_juliainterface]]
 arch = "aarch64"
 git-tree-sha1 = "162636580e5dcccef61de99e17f93b28cca65933"
@@ -43,7 +52,7 @@ os = "linux"
 
     [[GAP_pkg_juliainterface.download]]
     sha256 = "d47087f89af0a4d54e459dbc9072ddf6b0eb44bdedf647e0d59019e4bc8ca0bc"
-    url = "https://github.com/JuliaBinaryWrappers/GAP_pkg_juliainterface_jll.jl/releases/download/GAP_pkg_juliainterface-v0.160000.0+0/GAP_pkg_juliainterface.v0.160000.0.aarch64-linux-gnu-julia_version+1.10.0.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/GAP_pkg_juliainterface_jll.jl/releases/download/GAP_pkg_juliainterface-v0.160000.0+1/GAP_pkg_juliainterface.v0.160000.0.aarch64-linux-gnu-julia_version+1.10.0.tar.gz"
 [[GAP_pkg_juliainterface]]
 arch = "aarch64"
 git-tree-sha1 = "2337d56c964d58015d613779ca6ece10e1842a3b"
@@ -53,27 +62,37 @@ os = "linux"
 
     [[GAP_pkg_juliainterface.download]]
     sha256 = "076cded3ddae8e90696d6040f33c637f08856297df0cbd25779ef887bf7dd264"
-    url = "https://github.com/JuliaBinaryWrappers/GAP_pkg_juliainterface_jll.jl/releases/download/GAP_pkg_juliainterface-v0.160000.0+0/GAP_pkg_juliainterface.v0.160000.0.aarch64-linux-gnu-julia_version+1.11.1.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/GAP_pkg_juliainterface_jll.jl/releases/download/GAP_pkg_juliainterface-v0.160000.0+1/GAP_pkg_juliainterface.v0.160000.0.aarch64-linux-gnu-julia_version+1.11.1.tar.gz"
 [[GAP_pkg_juliainterface]]
 arch = "aarch64"
-git-tree-sha1 = "0e91889c495087a15b08b37f4fcf44a83b28cac7"
+git-tree-sha1 = "71083144b8900e9b5986186e320296cdeea4d73e"
 julia_version = "1.12.0"
 libc = "glibc"
 os = "linux"
 
     [[GAP_pkg_juliainterface.download]]
-    sha256 = "e2bcc214f1f5e6a51d7fa8045bc809267ce0a2d5e07eff5f4b88e9dfba876ae5"
-    url = "https://github.com/JuliaBinaryWrappers/GAP_pkg_juliainterface_jll.jl/releases/download/GAP_pkg_juliainterface-v0.160000.0+0/GAP_pkg_juliainterface.v0.160000.0.aarch64-linux-gnu-julia_version+1.12.0.tar.gz"
+    sha256 = "89cfae9b4feb2ae7ebba18b49f21106821450af506f6f0fafb4cf16e622b7222"
+    url = "https://github.com/JuliaBinaryWrappers/GAP_pkg_juliainterface_jll.jl/releases/download/GAP_pkg_juliainterface-v0.160000.0+1/GAP_pkg_juliainterface.v0.160000.0.aarch64-linux-gnu-julia_version+1.12.0.tar.gz"
 [[GAP_pkg_juliainterface]]
 arch = "aarch64"
-git-tree-sha1 = "1e0e11968ecbbc07dffb0744717967ced6129468"
+git-tree-sha1 = "b7bdb45b7ae5e9d5dc0688a2f52842caa6010d1f"
 julia_version = "1.13.0"
 libc = "glibc"
 os = "linux"
 
     [[GAP_pkg_juliainterface.download]]
-    sha256 = "acddc110427eacef60b75cb78c324412a71b6d8d09fac425353af7f19aa515c7"
-    url = "https://github.com/JuliaBinaryWrappers/GAP_pkg_juliainterface_jll.jl/releases/download/GAP_pkg_juliainterface-v0.160000.0+0/GAP_pkg_juliainterface.v0.160000.0.aarch64-linux-gnu-julia_version+1.13.0.tar.gz"
+    sha256 = "3f694bfcca3807fe4aae45d1860efee2932f5dc5768212d14e39f1fbef7c1bf6"
+    url = "https://github.com/JuliaBinaryWrappers/GAP_pkg_juliainterface_jll.jl/releases/download/GAP_pkg_juliainterface-v0.160000.0+1/GAP_pkg_juliainterface.v0.160000.0.aarch64-linux-gnu-julia_version+1.13.0.tar.gz"
+[[GAP_pkg_juliainterface]]
+arch = "aarch64"
+git-tree-sha1 = "0cede4a0ddc83a92db30351a2ef3940ffeacf03b"
+julia_version = "1.14.0"
+libc = "glibc"
+os = "linux"
+
+    [[GAP_pkg_juliainterface.download]]
+    sha256 = "69c8c5a6475c4139ffc3c3cd8d103e79573078d67cac8ce1b8478e798b5e144a"
+    url = "https://github.com/JuliaBinaryWrappers/GAP_pkg_juliainterface_jll.jl/releases/download/GAP_pkg_juliainterface-v0.160000.0+1/GAP_pkg_juliainterface.v0.160000.0.aarch64-linux-gnu-julia_version+1.14.0.tar.gz"
 [[GAP_pkg_juliainterface]]
 arch = "aarch64"
 git-tree-sha1 = "db6d61cde7b5c458161623bb471bdc745fd37a6f"
@@ -83,7 +102,7 @@ os = "linux"
 
     [[GAP_pkg_juliainterface.download]]
     sha256 = "537f17d8c9e39bbb4bc3d968e6c3d1ba32c7a721c1d6b4131f6df498924fc929"
-    url = "https://github.com/JuliaBinaryWrappers/GAP_pkg_juliainterface_jll.jl/releases/download/GAP_pkg_juliainterface-v0.160000.0+0/GAP_pkg_juliainterface.v0.160000.0.aarch64-linux-musl-julia_version+1.10.0.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/GAP_pkg_juliainterface_jll.jl/releases/download/GAP_pkg_juliainterface-v0.160000.0+1/GAP_pkg_juliainterface.v0.160000.0.aarch64-linux-musl-julia_version+1.10.0.tar.gz"
 [[GAP_pkg_juliainterface]]
 arch = "aarch64"
 git-tree-sha1 = "49194204f90f0c7b4fcdaefcaa37dcaf2d10ab68"
@@ -93,45 +112,64 @@ os = "linux"
 
     [[GAP_pkg_juliainterface.download]]
     sha256 = "c9fc34a1da6d35750822863f86c2e3c95ad91ea03eb82b2057e77f16e7e2e705"
-    url = "https://github.com/JuliaBinaryWrappers/GAP_pkg_juliainterface_jll.jl/releases/download/GAP_pkg_juliainterface-v0.160000.0+0/GAP_pkg_juliainterface.v0.160000.0.aarch64-linux-musl-julia_version+1.11.1.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/GAP_pkg_juliainterface_jll.jl/releases/download/GAP_pkg_juliainterface-v0.160000.0+1/GAP_pkg_juliainterface.v0.160000.0.aarch64-linux-musl-julia_version+1.11.1.tar.gz"
 [[GAP_pkg_juliainterface]]
 arch = "aarch64"
-git-tree-sha1 = "94d42c6eb1a58cae648bc8d186d35ef3ae7c8c9e"
+git-tree-sha1 = "ee02b31b36e3416856d5a5ef9e2813e65acc7c21"
 julia_version = "1.12.0"
 libc = "musl"
 os = "linux"
 
     [[GAP_pkg_juliainterface.download]]
-    sha256 = "f7a575817d1e90d167fa9079a0979a7444e141d943d4013287ad12e3f21bab64"
-    url = "https://github.com/JuliaBinaryWrappers/GAP_pkg_juliainterface_jll.jl/releases/download/GAP_pkg_juliainterface-v0.160000.0+0/GAP_pkg_juliainterface.v0.160000.0.aarch64-linux-musl-julia_version+1.12.0.tar.gz"
+    sha256 = "7cb91901a4410ccd24ff28ee3e52a73df510892d60d69da9baa9c85230bf333d"
+    url = "https://github.com/JuliaBinaryWrappers/GAP_pkg_juliainterface_jll.jl/releases/download/GAP_pkg_juliainterface-v0.160000.0+1/GAP_pkg_juliainterface.v0.160000.0.aarch64-linux-musl-julia_version+1.12.0.tar.gz"
 [[GAP_pkg_juliainterface]]
 arch = "aarch64"
-git-tree-sha1 = "5ede4262913005e7ccd85b7198718c2987965c16"
+git-tree-sha1 = "fb6e94267b0b9b9f89b19650cddc26c8856afd1b"
 julia_version = "1.13.0"
 libc = "musl"
 os = "linux"
 
     [[GAP_pkg_juliainterface.download]]
-    sha256 = "f11e946d75e574f7069cd4614fcb2ea7cd1a581b673ebca87503fca0d33031ac"
-    url = "https://github.com/JuliaBinaryWrappers/GAP_pkg_juliainterface_jll.jl/releases/download/GAP_pkg_juliainterface-v0.160000.0+0/GAP_pkg_juliainterface.v0.160000.0.aarch64-linux-musl-julia_version+1.13.0.tar.gz"
+    sha256 = "accdcb7929d60401cd0eb979bafcb729e205a8c6865f53e616544f68d4502475"
+    url = "https://github.com/JuliaBinaryWrappers/GAP_pkg_juliainterface_jll.jl/releases/download/GAP_pkg_juliainterface-v0.160000.0+1/GAP_pkg_juliainterface.v0.160000.0.aarch64-linux-musl-julia_version+1.13.0.tar.gz"
 [[GAP_pkg_juliainterface]]
 arch = "aarch64"
-git-tree-sha1 = "c2b70b21d95994bdd2b585f205deb42f8881c356"
+git-tree-sha1 = "a072e12734e348479084dfda3b2dfe5ed92701b5"
+julia_version = "1.14.0"
+libc = "musl"
+os = "linux"
+
+    [[GAP_pkg_juliainterface.download]]
+    sha256 = "ca350d1fd28e6bcf77aa07139eb164d16553425373aae730f64d8bdf297beb5d"
+    url = "https://github.com/JuliaBinaryWrappers/GAP_pkg_juliainterface_jll.jl/releases/download/GAP_pkg_juliainterface-v0.160000.0+1/GAP_pkg_juliainterface.v0.160000.0.aarch64-linux-musl-julia_version+1.14.0.tar.gz"
+[[GAP_pkg_juliainterface]]
+arch = "aarch64"
+git-tree-sha1 = "6a050b75f7cb7752520a9f1c0d35f75aeb3edff2"
 julia_version = "1.12.0"
 os = "freebsd"
 
     [[GAP_pkg_juliainterface.download]]
-    sha256 = "3e184261805a64830ff555bcd8b3a80a00f36bb1b9a3f14691e581fcd7f25bd4"
-    url = "https://github.com/JuliaBinaryWrappers/GAP_pkg_juliainterface_jll.jl/releases/download/GAP_pkg_juliainterface-v0.160000.0+0/GAP_pkg_juliainterface.v0.160000.0.aarch64-unknown-freebsd-julia_version+1.12.0.tar.gz"
+    sha256 = "088c1a9b597c9efa554bf7bbad8ea842d6b504dd42a39cd106c4d92f8225c388"
+    url = "https://github.com/JuliaBinaryWrappers/GAP_pkg_juliainterface_jll.jl/releases/download/GAP_pkg_juliainterface-v0.160000.0+1/GAP_pkg_juliainterface.v0.160000.0.aarch64-unknown-freebsd-julia_version+1.12.0.tar.gz"
 [[GAP_pkg_juliainterface]]
 arch = "aarch64"
-git-tree-sha1 = "23d840dcea3aa494ee7d0333d9d744e0ca710cc4"
+git-tree-sha1 = "3f98f5775b32d1a8c95e1e32fbc9c6bdf45fe091"
 julia_version = "1.13.0"
 os = "freebsd"
 
     [[GAP_pkg_juliainterface.download]]
-    sha256 = "b7da07afebc0b849f00f6137f4b54875bcd66d556f02396ccb2fe059036fd5bc"
-    url = "https://github.com/JuliaBinaryWrappers/GAP_pkg_juliainterface_jll.jl/releases/download/GAP_pkg_juliainterface-v0.160000.0+0/GAP_pkg_juliainterface.v0.160000.0.aarch64-unknown-freebsd-julia_version+1.13.0.tar.gz"
+    sha256 = "c0d4eb488c00a7fb93256a33115a7e3c6abdafb3b20453436bd1af32033c9188"
+    url = "https://github.com/JuliaBinaryWrappers/GAP_pkg_juliainterface_jll.jl/releases/download/GAP_pkg_juliainterface-v0.160000.0+1/GAP_pkg_juliainterface.v0.160000.0.aarch64-unknown-freebsd-julia_version+1.13.0.tar.gz"
+[[GAP_pkg_juliainterface]]
+arch = "aarch64"
+git-tree-sha1 = "7d041c602401bc34ebea8e698e209f5a0299a5ef"
+julia_version = "1.14.0"
+os = "freebsd"
+
+    [[GAP_pkg_juliainterface.download]]
+    sha256 = "693f7f464344ad94849485ea8d157d64a2918f104b5bd5fd67eac0d172aff36d"
+    url = "https://github.com/JuliaBinaryWrappers/GAP_pkg_juliainterface_jll.jl/releases/download/GAP_pkg_juliainterface-v0.160000.0+1/GAP_pkg_juliainterface.v0.160000.0.aarch64-unknown-freebsd-julia_version+1.14.0.tar.gz"
 [[GAP_pkg_juliainterface]]
 arch = "powerpc64le"
 git-tree-sha1 = "aab8292ba3ac04ed58ba214fd6b184897ce00407"
@@ -141,7 +179,7 @@ os = "linux"
 
     [[GAP_pkg_juliainterface.download]]
     sha256 = "873bd89bf36899f0c06c63c7f0475b4255840c5d767b6ed31d75d8f5eb1adaa4"
-    url = "https://github.com/JuliaBinaryWrappers/GAP_pkg_juliainterface_jll.jl/releases/download/GAP_pkg_juliainterface-v0.160000.0+0/GAP_pkg_juliainterface.v0.160000.0.powerpc64le-linux-gnu-julia_version+1.10.0.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/GAP_pkg_juliainterface_jll.jl/releases/download/GAP_pkg_juliainterface-v0.160000.0+1/GAP_pkg_juliainterface.v0.160000.0.powerpc64le-linux-gnu-julia_version+1.10.0.tar.gz"
 [[GAP_pkg_juliainterface]]
 arch = "powerpc64le"
 git-tree-sha1 = "72ee086159544eb5247ea9ab712b9b8f70963736"
@@ -151,37 +189,57 @@ os = "linux"
 
     [[GAP_pkg_juliainterface.download]]
     sha256 = "008cb013c3d31f7f07b70274e0f568be2db8062e97378b4f925d0580405581db"
-    url = "https://github.com/JuliaBinaryWrappers/GAP_pkg_juliainterface_jll.jl/releases/download/GAP_pkg_juliainterface-v0.160000.0+0/GAP_pkg_juliainterface.v0.160000.0.powerpc64le-linux-gnu-julia_version+1.11.1.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/GAP_pkg_juliainterface_jll.jl/releases/download/GAP_pkg_juliainterface-v0.160000.0+1/GAP_pkg_juliainterface.v0.160000.0.powerpc64le-linux-gnu-julia_version+1.11.1.tar.gz"
 [[GAP_pkg_juliainterface]]
 arch = "powerpc64le"
-git-tree-sha1 = "5b1eb6b5b6a8235f5582228392b001b83dbd1f28"
+git-tree-sha1 = "118395fb0d3c0a28e17f306deb5eb5e8a17b6bf3"
 julia_version = "1.12.0"
 libc = "glibc"
 os = "linux"
 
     [[GAP_pkg_juliainterface.download]]
-    sha256 = "ce9b19bdb9ece524706a46abe91079ac2704dd0e3c212b8d1d0bf2b17408fc32"
-    url = "https://github.com/JuliaBinaryWrappers/GAP_pkg_juliainterface_jll.jl/releases/download/GAP_pkg_juliainterface-v0.160000.0+0/GAP_pkg_juliainterface.v0.160000.0.powerpc64le-linux-gnu-julia_version+1.12.0.tar.gz"
+    sha256 = "78bf17834925e1580043200bf964e1d113fe1c3f12a50b370f3042072003dc94"
+    url = "https://github.com/JuliaBinaryWrappers/GAP_pkg_juliainterface_jll.jl/releases/download/GAP_pkg_juliainterface-v0.160000.0+1/GAP_pkg_juliainterface.v0.160000.0.powerpc64le-linux-gnu-julia_version+1.12.0.tar.gz"
 [[GAP_pkg_juliainterface]]
 arch = "powerpc64le"
-git-tree-sha1 = "0abc079272ce3ef1d1fc8095ac5ecd89ce474792"
+git-tree-sha1 = "1c43bf3e6ce82ee685fe204b8b6738e25b9a3e7c"
 julia_version = "1.13.0"
 libc = "glibc"
 os = "linux"
 
     [[GAP_pkg_juliainterface.download]]
-    sha256 = "c6909d15a0aaaae6270cd181e40866a2c179770cb94c15004d78806810d9a67e"
-    url = "https://github.com/JuliaBinaryWrappers/GAP_pkg_juliainterface_jll.jl/releases/download/GAP_pkg_juliainterface-v0.160000.0+0/GAP_pkg_juliainterface.v0.160000.0.powerpc64le-linux-gnu-julia_version+1.13.0.tar.gz"
+    sha256 = "33c54b4a73da2f66439b2d6786f0d0b3a977cdbc411054076f8008a2187ade98"
+    url = "https://github.com/JuliaBinaryWrappers/GAP_pkg_juliainterface_jll.jl/releases/download/GAP_pkg_juliainterface-v0.160000.0+1/GAP_pkg_juliainterface.v0.160000.0.powerpc64le-linux-gnu-julia_version+1.13.0.tar.gz"
+[[GAP_pkg_juliainterface]]
+arch = "powerpc64le"
+git-tree-sha1 = "80df03a37ada29ab1a5ee83dd748ff9e0222b02e"
+julia_version = "1.14.0"
+libc = "glibc"
+os = "linux"
+
+    [[GAP_pkg_juliainterface.download]]
+    sha256 = "8c42aeb53759952573a420a0221867f2678d3e1bf53a01b902b7dd1cd06bc173"
+    url = "https://github.com/JuliaBinaryWrappers/GAP_pkg_juliainterface_jll.jl/releases/download/GAP_pkg_juliainterface-v0.160000.0+1/GAP_pkg_juliainterface.v0.160000.0.powerpc64le-linux-gnu-julia_version+1.14.0.tar.gz"
 [[GAP_pkg_juliainterface]]
 arch = "riscv64"
-git-tree-sha1 = "d0a13b7ea038280cd4b51d6a280546bb889b8953"
+git-tree-sha1 = "8e0e07aa910dbcaba46496735b0d2601d1faa1f8"
 julia_version = "1.13.0"
 libc = "glibc"
 os = "linux"
 
     [[GAP_pkg_juliainterface.download]]
-    sha256 = "b6e857c5496bf954d0b85f65405e2c0bde9f989073a9e55c2a18cbfc68c2084e"
-    url = "https://github.com/JuliaBinaryWrappers/GAP_pkg_juliainterface_jll.jl/releases/download/GAP_pkg_juliainterface-v0.160000.0+0/GAP_pkg_juliainterface.v0.160000.0.riscv64-linux-gnu-julia_version+1.13.0.tar.gz"
+    sha256 = "7677fc8ff2f03b81e6929221a96cafb1475a27c05ba5923c6fcd4bd8ff82af51"
+    url = "https://github.com/JuliaBinaryWrappers/GAP_pkg_juliainterface_jll.jl/releases/download/GAP_pkg_juliainterface-v0.160000.0+1/GAP_pkg_juliainterface.v0.160000.0.riscv64-linux-gnu-julia_version+1.13.0.tar.gz"
+[[GAP_pkg_juliainterface]]
+arch = "riscv64"
+git-tree-sha1 = "2849f073869279f9e268b5a4e29ae5923eb2a1b8"
+julia_version = "1.14.0"
+libc = "glibc"
+os = "linux"
+
+    [[GAP_pkg_juliainterface.download]]
+    sha256 = "57a3ef8ea09782a23d48b348f0e78e01ddfbe9a67ebf3cd94508ace9bca711ef"
+    url = "https://github.com/JuliaBinaryWrappers/GAP_pkg_juliainterface_jll.jl/releases/download/GAP_pkg_juliainterface-v0.160000.0+1/GAP_pkg_juliainterface.v0.160000.0.riscv64-linux-gnu-julia_version+1.14.0.tar.gz"
 [[GAP_pkg_juliainterface]]
 arch = "x86_64"
 git-tree-sha1 = "1bc913922e2c45823343d6a5c83278b08e347459"
@@ -190,7 +248,7 @@ os = "macos"
 
     [[GAP_pkg_juliainterface.download]]
     sha256 = "08839554ac7dd18129bf48c4284317170e09695b3085d9de7f4946ceba7ebb90"
-    url = "https://github.com/JuliaBinaryWrappers/GAP_pkg_juliainterface_jll.jl/releases/download/GAP_pkg_juliainterface-v0.160000.0+0/GAP_pkg_juliainterface.v0.160000.0.x86_64-apple-darwin-julia_version+1.10.0.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/GAP_pkg_juliainterface_jll.jl/releases/download/GAP_pkg_juliainterface-v0.160000.0+1/GAP_pkg_juliainterface.v0.160000.0.x86_64-apple-darwin-julia_version+1.10.0.tar.gz"
 [[GAP_pkg_juliainterface]]
 arch = "x86_64"
 git-tree-sha1 = "96da51806f4906f5d3784141d273f3a2fd02517a"
@@ -199,7 +257,7 @@ os = "macos"
 
     [[GAP_pkg_juliainterface.download]]
     sha256 = "5e0673bc6986e4d49c3769929b373889c3e9f669876af5229e862f6d98e40cbb"
-    url = "https://github.com/JuliaBinaryWrappers/GAP_pkg_juliainterface_jll.jl/releases/download/GAP_pkg_juliainterface-v0.160000.0+0/GAP_pkg_juliainterface.v0.160000.0.x86_64-apple-darwin-julia_version+1.11.1.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/GAP_pkg_juliainterface_jll.jl/releases/download/GAP_pkg_juliainterface-v0.160000.0+1/GAP_pkg_juliainterface.v0.160000.0.x86_64-apple-darwin-julia_version+1.11.1.tar.gz"
 [[GAP_pkg_juliainterface]]
 arch = "x86_64"
 git-tree-sha1 = "b4e45a5c8ab9965e3ffd212afbe90cf175b3a4b9"
@@ -208,7 +266,7 @@ os = "macos"
 
     [[GAP_pkg_juliainterface.download]]
     sha256 = "7891706153cd30748cc7061d6f60bc56265fd6027a27802c43bfd4d88d67343d"
-    url = "https://github.com/JuliaBinaryWrappers/GAP_pkg_juliainterface_jll.jl/releases/download/GAP_pkg_juliainterface-v0.160000.0+0/GAP_pkg_juliainterface.v0.160000.0.x86_64-apple-darwin-julia_version+1.12.0.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/GAP_pkg_juliainterface_jll.jl/releases/download/GAP_pkg_juliainterface-v0.160000.0+1/GAP_pkg_juliainterface.v0.160000.0.x86_64-apple-darwin-julia_version+1.12.0.tar.gz"
 [[GAP_pkg_juliainterface]]
 arch = "x86_64"
 git-tree-sha1 = "6d76bed7842df941dd85e1d643c5f40067bde6e9"
@@ -217,7 +275,16 @@ os = "macos"
 
     [[GAP_pkg_juliainterface.download]]
     sha256 = "edefc09d1f26ce14c10a31e303f06b7ff5ad14226bb51524c877a94082e611ca"
-    url = "https://github.com/JuliaBinaryWrappers/GAP_pkg_juliainterface_jll.jl/releases/download/GAP_pkg_juliainterface-v0.160000.0+0/GAP_pkg_juliainterface.v0.160000.0.x86_64-apple-darwin-julia_version+1.13.0.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/GAP_pkg_juliainterface_jll.jl/releases/download/GAP_pkg_juliainterface-v0.160000.0+1/GAP_pkg_juliainterface.v0.160000.0.x86_64-apple-darwin-julia_version+1.13.0.tar.gz"
+[[GAP_pkg_juliainterface]]
+arch = "x86_64"
+git-tree-sha1 = "79cd2f0ad097b0c332e1eb6e7d6d53f9b0b172e1"
+julia_version = "1.14.0"
+os = "macos"
+
+    [[GAP_pkg_juliainterface.download]]
+    sha256 = "e8553e0454f5e4b29d38be4d8fc34f8afc52dd6495378b1e13bda2be55fef218"
+    url = "https://github.com/JuliaBinaryWrappers/GAP_pkg_juliainterface_jll.jl/releases/download/GAP_pkg_juliainterface-v0.160000.0+1/GAP_pkg_juliainterface.v0.160000.0.x86_64-apple-darwin-julia_version+1.14.0.tar.gz"
 [[GAP_pkg_juliainterface]]
 arch = "x86_64"
 git-tree-sha1 = "52ca810fa90895fd2fd6bd01b8c591f577f8ecea"
@@ -227,7 +294,7 @@ os = "linux"
 
     [[GAP_pkg_juliainterface.download]]
     sha256 = "60e3d13faa3b68052c74adc603018c3715196a61083de38bd7e7c558b779a0ba"
-    url = "https://github.com/JuliaBinaryWrappers/GAP_pkg_juliainterface_jll.jl/releases/download/GAP_pkg_juliainterface-v0.160000.0+0/GAP_pkg_juliainterface.v0.160000.0.x86_64-linux-gnu-julia_version+1.10.0.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/GAP_pkg_juliainterface_jll.jl/releases/download/GAP_pkg_juliainterface-v0.160000.0+1/GAP_pkg_juliainterface.v0.160000.0.x86_64-linux-gnu-julia_version+1.10.0.tar.gz"
 [[GAP_pkg_juliainterface]]
 arch = "x86_64"
 git-tree-sha1 = "4172ee61ceace68d5bfa72d49906109423a0dbd4"
@@ -237,27 +304,37 @@ os = "linux"
 
     [[GAP_pkg_juliainterface.download]]
     sha256 = "9fdc6cf14981c387f25012c33f7d369585c0c4f679af6499b07bff35d4a91af2"
-    url = "https://github.com/JuliaBinaryWrappers/GAP_pkg_juliainterface_jll.jl/releases/download/GAP_pkg_juliainterface-v0.160000.0+0/GAP_pkg_juliainterface.v0.160000.0.x86_64-linux-gnu-julia_version+1.11.1.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/GAP_pkg_juliainterface_jll.jl/releases/download/GAP_pkg_juliainterface-v0.160000.0+1/GAP_pkg_juliainterface.v0.160000.0.x86_64-linux-gnu-julia_version+1.11.1.tar.gz"
 [[GAP_pkg_juliainterface]]
 arch = "x86_64"
-git-tree-sha1 = "01f057f2da4977ab26f7cb1eff7826aa660f717a"
+git-tree-sha1 = "acf396267a201fffb641615582cf8130eb1c863e"
 julia_version = "1.12.0"
 libc = "glibc"
 os = "linux"
 
     [[GAP_pkg_juliainterface.download]]
-    sha256 = "b149521c1cfdfd468de039e7e19120c9e13c85a3ec8114f60da097d880916a11"
-    url = "https://github.com/JuliaBinaryWrappers/GAP_pkg_juliainterface_jll.jl/releases/download/GAP_pkg_juliainterface-v0.160000.0+0/GAP_pkg_juliainterface.v0.160000.0.x86_64-linux-gnu-julia_version+1.12.0.tar.gz"
+    sha256 = "1b38c7ba32564253ac414bf6d8b129026b1d50800656d2b395f7f6ff28d587dd"
+    url = "https://github.com/JuliaBinaryWrappers/GAP_pkg_juliainterface_jll.jl/releases/download/GAP_pkg_juliainterface-v0.160000.0+1/GAP_pkg_juliainterface.v0.160000.0.x86_64-linux-gnu-julia_version+1.12.0.tar.gz"
 [[GAP_pkg_juliainterface]]
 arch = "x86_64"
-git-tree-sha1 = "747f29473efd318a5b0ad1f4a1dec5dfb89cb3b5"
+git-tree-sha1 = "0eb6b32bc123b390455c02b6ff4dbeb9e01290f0"
 julia_version = "1.13.0"
 libc = "glibc"
 os = "linux"
 
     [[GAP_pkg_juliainterface.download]]
-    sha256 = "7d4138f30ca82b9ed2ced1b1bbf087114e2ebd611b8f3cfa41bce5749f06d062"
-    url = "https://github.com/JuliaBinaryWrappers/GAP_pkg_juliainterface_jll.jl/releases/download/GAP_pkg_juliainterface-v0.160000.0+0/GAP_pkg_juliainterface.v0.160000.0.x86_64-linux-gnu-julia_version+1.13.0.tar.gz"
+    sha256 = "0e9d608c13e64524355dc8f8eb211e2faccf41295416df5091291eae39bacc4f"
+    url = "https://github.com/JuliaBinaryWrappers/GAP_pkg_juliainterface_jll.jl/releases/download/GAP_pkg_juliainterface-v0.160000.0+1/GAP_pkg_juliainterface.v0.160000.0.x86_64-linux-gnu-julia_version+1.13.0.tar.gz"
+[[GAP_pkg_juliainterface]]
+arch = "x86_64"
+git-tree-sha1 = "d2e7b2088bfc256c2c7ea71d7970d0348ce7a144"
+julia_version = "1.14.0"
+libc = "glibc"
+os = "linux"
+
+    [[GAP_pkg_juliainterface.download]]
+    sha256 = "650fab1fc12463e561b0eb434415481abb0f4238668775e260c4f03b7d8be024"
+    url = "https://github.com/JuliaBinaryWrappers/GAP_pkg_juliainterface_jll.jl/releases/download/GAP_pkg_juliainterface-v0.160000.0+1/GAP_pkg_juliainterface.v0.160000.0.x86_64-linux-gnu-julia_version+1.14.0.tar.gz"
 [[GAP_pkg_juliainterface]]
 arch = "x86_64"
 git-tree-sha1 = "a85f7c8d1d176dc14f18913a1922d7724b40dd8a"
@@ -267,7 +344,7 @@ os = "linux"
 
     [[GAP_pkg_juliainterface.download]]
     sha256 = "215adf6137646078ab5a3fd605394ff75faf60c9b4847a8bb43d14c98f7a6166"
-    url = "https://github.com/JuliaBinaryWrappers/GAP_pkg_juliainterface_jll.jl/releases/download/GAP_pkg_juliainterface-v0.160000.0+0/GAP_pkg_juliainterface.v0.160000.0.x86_64-linux-musl-julia_version+1.10.0.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/GAP_pkg_juliainterface_jll.jl/releases/download/GAP_pkg_juliainterface-v0.160000.0+1/GAP_pkg_juliainterface.v0.160000.0.x86_64-linux-musl-julia_version+1.10.0.tar.gz"
 [[GAP_pkg_juliainterface]]
 arch = "x86_64"
 git-tree-sha1 = "f4204846212c26fb808d98488792bb4b126c51ee"
@@ -277,27 +354,37 @@ os = "linux"
 
     [[GAP_pkg_juliainterface.download]]
     sha256 = "030261b313ef365cb38c692e9f800dce362e2e93e02b1aeb080a5ffdb9fadcd6"
-    url = "https://github.com/JuliaBinaryWrappers/GAP_pkg_juliainterface_jll.jl/releases/download/GAP_pkg_juliainterface-v0.160000.0+0/GAP_pkg_juliainterface.v0.160000.0.x86_64-linux-musl-julia_version+1.11.1.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/GAP_pkg_juliainterface_jll.jl/releases/download/GAP_pkg_juliainterface-v0.160000.0+1/GAP_pkg_juliainterface.v0.160000.0.x86_64-linux-musl-julia_version+1.11.1.tar.gz"
 [[GAP_pkg_juliainterface]]
 arch = "x86_64"
-git-tree-sha1 = "72f4688303541303096f90c501df631bd44a6a2b"
+git-tree-sha1 = "d193f9098cef00e3aad4f2f98616726e6dd1bfd2"
 julia_version = "1.12.0"
 libc = "musl"
 os = "linux"
 
     [[GAP_pkg_juliainterface.download]]
-    sha256 = "5b368e1600b66581fde19d6c5db5dd7d5a6865399c702b1c8a8182605890450c"
-    url = "https://github.com/JuliaBinaryWrappers/GAP_pkg_juliainterface_jll.jl/releases/download/GAP_pkg_juliainterface-v0.160000.0+0/GAP_pkg_juliainterface.v0.160000.0.x86_64-linux-musl-julia_version+1.12.0.tar.gz"
+    sha256 = "5c5489a6850cf38e0bf5b68c3b79dffba38b45a0b3920c86175789571a272cfc"
+    url = "https://github.com/JuliaBinaryWrappers/GAP_pkg_juliainterface_jll.jl/releases/download/GAP_pkg_juliainterface-v0.160000.0+1/GAP_pkg_juliainterface.v0.160000.0.x86_64-linux-musl-julia_version+1.12.0.tar.gz"
 [[GAP_pkg_juliainterface]]
 arch = "x86_64"
-git-tree-sha1 = "77a3121f6761d4207d3cae118130012cebee9163"
+git-tree-sha1 = "8e5a3e08c81a0bbb439767a61ab24ac9bd16cd0d"
 julia_version = "1.13.0"
 libc = "musl"
 os = "linux"
 
     [[GAP_pkg_juliainterface.download]]
-    sha256 = "af88cef4e01cde46a41eaa19a3bfb53e9b603c205e149f5940c346c6335b9a12"
-    url = "https://github.com/JuliaBinaryWrappers/GAP_pkg_juliainterface_jll.jl/releases/download/GAP_pkg_juliainterface-v0.160000.0+0/GAP_pkg_juliainterface.v0.160000.0.x86_64-linux-musl-julia_version+1.13.0.tar.gz"
+    sha256 = "9ec554236abb8e1c58d2c81d13f9123f6f62dedb9826191553edbf14eb76c384"
+    url = "https://github.com/JuliaBinaryWrappers/GAP_pkg_juliainterface_jll.jl/releases/download/GAP_pkg_juliainterface-v0.160000.0+1/GAP_pkg_juliainterface.v0.160000.0.x86_64-linux-musl-julia_version+1.13.0.tar.gz"
+[[GAP_pkg_juliainterface]]
+arch = "x86_64"
+git-tree-sha1 = "cc426ef464ccbdc1bc0a0d952ef42eb6bbc3494a"
+julia_version = "1.14.0"
+libc = "musl"
+os = "linux"
+
+    [[GAP_pkg_juliainterface.download]]
+    sha256 = "17c17fec7ba0faf4cc0396f8426477a075b10f67f02cfc4db62a54f0574329ed"
+    url = "https://github.com/JuliaBinaryWrappers/GAP_pkg_juliainterface_jll.jl/releases/download/GAP_pkg_juliainterface-v0.160000.0+1/GAP_pkg_juliainterface.v0.160000.0.x86_64-linux-musl-julia_version+1.14.0.tar.gz"
 [[GAP_pkg_juliainterface]]
 arch = "x86_64"
 git-tree-sha1 = "cbb07eef349f15875419318cba6c3a5a8a5d6e76"
@@ -306,7 +393,7 @@ os = "freebsd"
 
     [[GAP_pkg_juliainterface.download]]
     sha256 = "1758beb39f999b6738d15aee50182194c9681c9ca1e9c32ee0f91d600bbaed08"
-    url = "https://github.com/JuliaBinaryWrappers/GAP_pkg_juliainterface_jll.jl/releases/download/GAP_pkg_juliainterface-v0.160000.0+0/GAP_pkg_juliainterface.v0.160000.0.x86_64-unknown-freebsd-julia_version+1.10.0.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/GAP_pkg_juliainterface_jll.jl/releases/download/GAP_pkg_juliainterface-v0.160000.0+1/GAP_pkg_juliainterface.v0.160000.0.x86_64-unknown-freebsd-julia_version+1.10.0.tar.gz"
 [[GAP_pkg_juliainterface]]
 arch = "x86_64"
 git-tree-sha1 = "9055a21328af4853820a97b47a87f6ba35ccf6e6"
@@ -315,22 +402,31 @@ os = "freebsd"
 
     [[GAP_pkg_juliainterface.download]]
     sha256 = "f1b235fe32f38bb97769190b6a20b947e3019badda6cdd5e0d69a5793d2fa4a9"
-    url = "https://github.com/JuliaBinaryWrappers/GAP_pkg_juliainterface_jll.jl/releases/download/GAP_pkg_juliainterface-v0.160000.0+0/GAP_pkg_juliainterface.v0.160000.0.x86_64-unknown-freebsd-julia_version+1.11.1.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/GAP_pkg_juliainterface_jll.jl/releases/download/GAP_pkg_juliainterface-v0.160000.0+1/GAP_pkg_juliainterface.v0.160000.0.x86_64-unknown-freebsd-julia_version+1.11.1.tar.gz"
 [[GAP_pkg_juliainterface]]
 arch = "x86_64"
-git-tree-sha1 = "6bb077b0ed426b172d63de77d317b28bccc986ef"
+git-tree-sha1 = "eb69f019e6731903b9b75b58b2c7f2df3a8635b7"
 julia_version = "1.12.0"
 os = "freebsd"
 
     [[GAP_pkg_juliainterface.download]]
-    sha256 = "34a129ea76750c025b245722d38039d7f2fc47f5e0ffbaccde0952c86a540cdb"
-    url = "https://github.com/JuliaBinaryWrappers/GAP_pkg_juliainterface_jll.jl/releases/download/GAP_pkg_juliainterface-v0.160000.0+0/GAP_pkg_juliainterface.v0.160000.0.x86_64-unknown-freebsd-julia_version+1.12.0.tar.gz"
+    sha256 = "b6e07dd1d8d9cafd25c92483ac8a4f9f30194dbebca4c83244156f86c7a58ed4"
+    url = "https://github.com/JuliaBinaryWrappers/GAP_pkg_juliainterface_jll.jl/releases/download/GAP_pkg_juliainterface-v0.160000.0+1/GAP_pkg_juliainterface.v0.160000.0.x86_64-unknown-freebsd-julia_version+1.12.0.tar.gz"
 [[GAP_pkg_juliainterface]]
 arch = "x86_64"
-git-tree-sha1 = "5a2eb4528da2358d0c9b4afc85ee85c837601110"
+git-tree-sha1 = "7e58e321ff27b8491d613a8bd21f46ae8d3c9101"
 julia_version = "1.13.0"
 os = "freebsd"
 
     [[GAP_pkg_juliainterface.download]]
-    sha256 = "195c45074d7a1bc97a4e9a7423b7aab40725445c6a962e8899bb60dd95a87fd6"
-    url = "https://github.com/JuliaBinaryWrappers/GAP_pkg_juliainterface_jll.jl/releases/download/GAP_pkg_juliainterface-v0.160000.0+0/GAP_pkg_juliainterface.v0.160000.0.x86_64-unknown-freebsd-julia_version+1.13.0.tar.gz"
+    sha256 = "28191a4e882ba6cff78f1a34f9280e2c5229c87f4677f7e623bfa0db0e85b249"
+    url = "https://github.com/JuliaBinaryWrappers/GAP_pkg_juliainterface_jll.jl/releases/download/GAP_pkg_juliainterface-v0.160000.0+1/GAP_pkg_juliainterface.v0.160000.0.x86_64-unknown-freebsd-julia_version+1.13.0.tar.gz"
+[[GAP_pkg_juliainterface]]
+arch = "x86_64"
+git-tree-sha1 = "517e52230a6b6d71af4d7f34c12ee52e4fa17672"
+julia_version = "1.14.0"
+os = "freebsd"
+
+    [[GAP_pkg_juliainterface.download]]
+    sha256 = "8e5148ff336f3e319c65dcbcc8ddb857352d80906767ff105ecd6cc8f00a3329"
+    url = "https://github.com/JuliaBinaryWrappers/GAP_pkg_juliainterface_jll.jl/releases/download/GAP_pkg_juliainterface-v0.160000.0+1/GAP_pkg_juliainterface.v0.160000.0.x86_64-unknown-freebsd-julia_version+1.14.0.tar.gz"
